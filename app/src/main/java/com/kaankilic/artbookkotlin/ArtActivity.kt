@@ -53,7 +53,7 @@ class ArtActivity : AppCompatActivity() {
 
             try {
 
-                val database = this.openOrCreateDatabase("Arts")
+
 
 
             }catch (e:Exception){
